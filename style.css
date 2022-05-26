@@ -13,7 +13,7 @@
 .aaa #matrix-image {
   width: 100%;
 }
-.aaa .more_inf {
+.aaa .more-inf {
   font-family: fantasy, cursive;
 }
 
@@ -37,14 +37,14 @@
 .task-row-wrapper {
   display: flex;
 }
-#incompleteTasks,
+#incomplete-tasks,
 #completed-tasks {
   margin: 0;
   padding: 0px;
 }
 
 
-#incompleteTasks * {
+#incomplete-tasks * {
   list-style: none;
 }
 .task-input,
@@ -149,11 +149,11 @@
   display: none;
 }
 
-.editMode .task-text {
+.edit-mode .task-text {
   display: inline-block;
   width: 224px;
 }
 
-.editMode .task-name {
+.edit-mode .task-name {
   display: none;
 }
