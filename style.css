@@ -10,7 +10,7 @@
   display: block;
   text-align: right;
 }
-.matrix-container #matrix-image {
+.matrix-container #matrix-img {
   width: 100%;
 }
 .matrix-container .more-inf {
@@ -24,7 +24,7 @@
   }
 
 }
-.centered-main-page-element {
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
