@@ -92,7 +92,7 @@
   color: #888;
 }
 .task__input_text:focus,
-.add-section__task_text {
+.add-section__task_text:focus {
   color: #333;
 }
 
